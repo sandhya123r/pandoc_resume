@@ -10,8 +10,7 @@ CA 95112                    408-613-7869
 Objective
 ---------
 
-Seeking internships in backend development or storage solutions during
-Summer 2016
+Seeking internships in backend development or storage solutions in Summer '16.
 
 Education
 ---------
@@ -72,10 +71,12 @@ Compliance Manager for the cloud (Oct’2015 - present)
 * Real time management of compliances for cloud environment and deviation
   detections with respect to cloud security standards, alerting and
   recommendation engine for deviations, visualizing the compliance status
-  based on roles.
+  based on roles. Implemented with AWS for the cloud, spark for the database,
+  python for framework and D3 for the UI.
  
-* Priority-Based Flow control for Data Center Networks (Sep’2015-Present)
-  Research study on PFC, PAUSE frames, Ethernet network congestion control
+Priority-Based Flow control for Data Center Networks (Sep’2015-Present)
+
+* Research study on PFC, PAUSE frames, Ethernet network congestion control
   mechanism and usage of PFC in Data  centers.
 
 Skill Set
