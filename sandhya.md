@@ -83,7 +83,7 @@ Skill Set
 ------------
 
 Programming Languages
-:   C, C++, SQL, PL/SQL
+:   C, C++, SQL, PL/SQL, Python
 
 Operating Systems
 :   Linux, Solaris, Windows
