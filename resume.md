@@ -1,92 +1,86 @@
-Sandhya Ramanarayanan
-======================
+Pranesh Pandurangan
+===================
 
------------------------     ----------------------------
-101 E San Fernando St       sandhyafeb1990@gmail.com
-San Jose                    LinkedIn: goo.gl/VnP8aa
-CA 95112                    408-613-7869
------------------------     ----------------------------
-
-Objective
----------
-
-Seeking internships in backend development or storage solutions in Summer '16.
+-------------------     ----------------------------
+1455 Ramon Drive                 praneshpg@gmail.com 
+Sunnyvale                      http://lnkd.in/KmtDgn 
+CA 94087                              (408)-893-0689
+-------------------     ----------------------------
 
 Education
 ---------
 
-2015-
-:   **MS, Software Engineering**\
-    San Jose State University
+2011-2013
+:   **MS, Computer Science**; Georgia Institute of Technology(Atlanta)
+
+    *Specialization: Systems*
+    *GPA – 3.8/4*
 
 2007-2011
-:   **BTech, Computer Science and Engineering**\
-    National Institute of Technology(Trichy)
+:   **BTech, Computer Science and Engineering** National Institute of
+    Technology(Trichy)
+
+    *GPA: 8/10*
 
 Experience
 ----------
-**Senior Member of Technical Staff, Oracle Inc.**, 2011-2015\
-Oracle ACFS support for databases - ASM cluster file system
 
-* Built a C/C++ based test application to test sparse files on ACFS that
-  starts a multiprocess/multi-threaded workload to create sparse files,
-  test various types of I/O on holes and data blocks.
+**Tech Yahoo, Intermediate, Yahoo Inc:**, 2013-present  
+[Openstack](http://www.openstack.org/) developer 
 
-* Worked on developing stress tests for storing database files on Oracle ACFS.
-  Designed and implemented test framework based on PL/SQL, SQL, shell scripts
-  for different types of database workload generation covering data mining
-  (using STAR schema,ETL,OLTP/OLAP,securefiles LOBs) and comprehensive testing
-  of features across Oracle RDBMS, including data layer, recovery and backup,
-  query execution and optimisation, filesystem throughput across various
-  operating systems - Linux, Solaris, AIX, Windows
+* Getting OpenStack to be used at Y! (as its core infrastructure), which 
+  involves code changes to OpenStack, conferences and session talks on needed 
+  features (ie to be used at Y! scale) and integration into Y!'s core systems 
+  and ensuring the work that Y! does is given back to the community.
 
-* Developed C++ extension stress test for ACFS plugins to calculate filesystem
-  metrics using OOPS paradigm
+**Graduate Research Assistant, Georgia Tech**, 2012-2013  
 
-Stress, Performance, Destructive Testing for Oracle 11g, 12c.
+* Computation Offloading for mobile applications  
+  Automatically detect and offload computation-intensive components of mobile 
+  applications to the cloud, while accounting for intermittent connectivity to
+  the internet. Implemented on android.
+    * COSMOS: Computation Offloading as a Service for Mobile Devices.  
+      Cong Shi, Karim Habak, Pranesh Pandurangan, Mostafa Ammar, Mayur Naik,
+      and Ellen Zegura. MobiHoc'14: ACM Symposium on Mobile Ad Hoc Networking 
+      and Computing.
+* Intermittent Storage for Mobile Devices  
+  Framework to enable mobile devices to temporarily offload files to nearby devices
+  when out of space and lacking network connectivity. Implemented the framework in the
+  [ONE simulator](http://www.netlab.tkk.fi/tutkimus/dtn/theone/)
 
-* Design/Development/Execution of multi-tier stress test suites simulating
-  real-world customer scenarios to uncover Product defects and enhance product
-  quality. Architect large-scale, high-load,massively concurrent end-to-end
-  test applications to assess Oracle Database’s scalability, reliability,
-  availability and performance.
+**Interim Engineering Intern, Qualcomm Inc.**, 2012  
 
-[Exadata](https://www.oracle.com/engineered-systems/exadata/index.html)
+* Designed and implemented a task level profiling tool in C and Python. This
+  was a software implementation of a hardware tool used in judging modem
+  performance
 
-* Worked on stress and performance testing of bundle patches for Exadata,
-  ACFS support on Exadata, WBFC (write back flash cache) support for ACFS on
-  Exadata, EHCC(Exadata Hybrid Columnar Compression) support for ACFS on
-  Exadata, sparse diskgroups to store datafiles on Exadata.
+**Intern, TU Darmstadt**, 2010  
 
-* Cross functional testing of multitenant container databases (CDB),
-  In-Memory,Compression, Data Guard, RAC, ASM on ACFS/Exadata
+* Exploring Visual Self-localisation Algorithms for Mobile Platforms  
+  Map the movement of a robot, given a sequence of stereo images taken from it.
 
-* RDS testing to measure database throughput on Exadata clusters.
+**Visiting Intern, National University of Singapore**, 2009  
 
-Projects
-------------
+* Coordinated Behaviour of Multiple robots  
+  Implemented a military escort system using a few commodity robots (Rovio from WowWee)
+  and Player/Stage software
 
-Compliance Manager for the cloud (Oct’2015 - present)
+Technical Experience
+--------------------
 
-* Real time management of compliances for cloud environment and deviation
-  detections with respect to cloud security standards, alerting and
-  recommendation engine for deviations, visualizing the compliance status
-  based on roles. Implemented with AWS for the cloud, spark for the database,
-  python for framework and D3 for the UI.
- 
-Priority-Based Flow control for Data Center Networks (Sep’2015-Present)
+Open Source
+:   Contributed reviews and code upstream on several openstack projects,
+    core in taskflow (https://wiki.openstack.org/TaskFlow) and anvil
+    (https://anvil.readthedocs.org/en/latest/)
 
-* Research study on PFC, PAUSE frames, Ethernet network congestion control
-  mechanism and usage of PFC in Data  centers.
-
-Skill Set
-------------
+Entropy
+:   Entropy is a framework to write cluster-check scripts, and reaction scripts 
+    to the errors/issues these audits raise. This automates reacting to failure. 
+    A potentially more important use is to aggregate failures, notice trends in 
+    failures, and developing a database of known failures to make dealing with
+    new ones easier.  
+    https://github.com/stackforge/entropy
+    https://launchpad.net/openstack-entropy
 
 Programming Languages
-:   C, C++, SQL, PL/SQL
-
-Operating Systems
-:   Linux, Solaris, Windows
-
-Strengths
-:   Kernel, C++, Storage solutions, RDBMS
+:   Python, C, C++
