@@ -1,11 +1,11 @@
 Pranesh Pandurangan
 ===================
 
--------------------     ----------------------------
-1455 Ramon Drive                 praneshpg@gmail.com 
-Sunnyvale                      http://lnkd.in/KmtDgn 
-CA 94087                              (408)-893-0689
--------------------     ----------------------------
+-----------------------
+praneshpg@gmail.com 
+http://lnkd.in/KmtDgn 
+(408)-893-0689
+-----------------------
 
 Education
 ---------
@@ -79,7 +79,7 @@ Entropy
     A potentially more important use is to aggregate failures, notice trends in 
     failures, and developing a database of known failures to make dealing with
     new ones easier.  
-    https://github.com/stackforge/entropy
+    https://github.com/openstack/entropy
     https://launchpad.net/openstack-entropy
 
 Programming Languages
