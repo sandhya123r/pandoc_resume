@@ -1,11 +1,12 @@
 Sandhya Ramanarayanan
 ======================
 
------------------------     ----------------------------
-101 E San Fernando St       sandhyafeb1990@gmail.com
-San Jose                    LinkedIn: goo.gl/VnP8aa
-CA 95112                    408-613-7869
------------------------     ----------------------------
+----------------------------------------
+sandhyafeb1990@gmail.com
+LinkedIn: goo.gl/VnP8aa
+GitHub:  https://github.com/sandhya123r
+408-613-7869
+----------------------------------------
 
 Objective
 ---------
@@ -22,6 +23,8 @@ Education
 2007-2011
 :   **BTech, Computer Science and Engineering**\
     National Institute of Technology(Trichy)
+
+    *GPA: 7.6/10*
 
 Experience
 ----------
