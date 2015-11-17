@@ -24,7 +24,6 @@ Education
 :   **BTech, Computer Science and Engineering**\
     National Institute of Technology(Trichy)
 
-    *GPA: 7.6/10*
 
 Experience
 ----------
