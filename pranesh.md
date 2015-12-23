@@ -83,4 +83,4 @@ Entropy
     https://launchpad.net/openstack-entropy
 
 Programming Languages
-:   Python, C, C++
+:   Python, C, C++, Ruby (chef recipes), Java
