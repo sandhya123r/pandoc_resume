@@ -16,11 +16,12 @@ Seeking internships in backend development or storage solutions in Summer '16.
 Education
 ---------
 
-2015-
+2015 - present
 :   **MS, Software Engineering**\
     San Jose State University
+GPA: 3.76/4
 
-2007-2011
+2007 - 2011
 :   **BTech, Computer Science and Engineering**\
     National Institute of Technology(Trichy)
 
