@@ -8,22 +8,15 @@ GitHub:  https://github.com/sandhya123r
 408-613-7869
 ----------------------------------------
 
-Objective
----------
-
-Seeking internships in backend development or storage solutions in Summer '16.
-
 Education
 ---------
 
 2015 - present
-:   **MS, Software Engineering**\
-    San Jose State University
-GPA: 3.76/4
+:   **MS, Software Engineering**\  San Jose State University    
+    *GPA: 3.76/4*
 
 2007 - 2011
-:   **BTech, Computer Science and Engineering**\
-    National Institute of Technology(Trichy)
+:   **BTech, Computer Science and Engineering**\ National Institute of Technology(Trichy)
 
 
 Experience
@@ -69,7 +62,43 @@ Stress, Performance, Destructive Testing for Oracle 11g, 12c.
 Projects
 ------------
 
-Compliance Manager for the cloud (Oct’2015 - present)
+[Pi Cloud](https://gitlab.com/picloud/picloud) (Spring '16)
+
+* Pi Cloud is a Raspberry Pi-based PaaS service(written in Python) that can
+  add or remove nodes in real-time without restarting the server. It features
+  a controller that can register new nodes, deploy applications on-demand given
+  a github repository, and load balance traffic to the applications it manages
+  and deploys, and implement CI/CD for these applications.   
+Technologies - Python, REST Server via Flask, Fabric.
+
+Mini Key/Value NoSQL Database (Spring '16)
+
+* Extended an existing key/value database store written in Java (ShoreDB).
+  Implemented a N-node instance of the database that exposes REST API calls to the
+  user that map to CRUD operations. Built a prototype of highly available, scalable
+  system using Elastic Load Balancer, VPC for hosting the application and database
+  servers. Demonstrated availability in the face of partition, [ie AP](https://www.youtube.com/watch?v=6sNSWjt8or0).
+  Also implemented [indexing for searching](https://www.youtube.com/watch?v=cunSo8T7aKs)
+  through records.   
+Technologies - AWS, Java, Spring framework.
+
+[e-Shopping Cart Prototype](https://github.com/sandhya123r/heroku-shoppingcart) (Spring '16)
+
+* Built a scalable shopping cart service on Amazon Cloud and Heroku. Implemented
+  session management using Redis, product catalog using MongoDB, and Express framework
+  for the frontend. Backend consists of N-node instance of application server connecting
+  to MySQL database.      
+Technologies - AWS, Express, Redis , MongoDB, Spring, MySQL, Heroku. 
+
+[Photo Gallery Application](https://github.com/sandhya123r/CMPE207-PhotoGallery) (Spring '16)
+
+* Built a Photo Gallery web application. Application server focusses on concurrency
+  design, high availability and scalability. Used MySQL for implementing replication
+  and Django for the full stack consisting of static files, application server and
+  REST interface. Monitored AWS resources using Cloudwatch.    
+Technologies - Django, MySQL.
+
+Compliance Manager for the cloud (Fall ’15)
 
 * Real time management of compliances for cloud environment and deviation
   detections with respect to cloud security standards, alerting and
@@ -77,7 +106,7 @@ Compliance Manager for the cloud (Oct’2015 - present)
   based on roles. Implemented with AWS for the cloud, spark for the database,
   python for framework and D3 for the UI.
  
-Priority-Based Flow control for Data Center Networks (Sep’2015-Present)
+Priority-Based Flow control for Data Center Networks (Fall ’15)
 
 * Research study on PFC, PAUSE frames, Ethernet network congestion control
   mechanism and usage of PFC in Data  centers.
@@ -86,10 +115,10 @@ Skill Set
 ------------
 
 Programming Languages
-:   C, C++, SQL, PL/SQL, Python
+:   C, C++, SQL, Python, Java, Go
 
 Operating Systems
 :   Linux, Solaris, Windows
 
 Strengths
-:   Kernel, C++, Storage solutions, RDBMS
+:   Kernel, C++, Storage solutions, RDBMS, AWS
