@@ -13,7 +13,7 @@ Education
 
 2015 - present
 :   **MS, Software Engineering**\  San Jose State University    
-    *GPA: 3.76/4*
+    *GPA: 3.72/4*
 
 2007 - 2011
 :   **BTech, Computer Science and Engineering**\ National Institute of Technology(Trichy)
@@ -21,6 +21,9 @@ Education
 
 Experience
 ----------
+**Software Development Engineer Intern, Amazon Web Services**, Summer 2016\
+Elastic transcoding team
+
 **Senior Member of Technical Staff, Oracle Inc.**, 2011-2015\
 Oracle ACFS support for databases - ASM cluster file system
 
